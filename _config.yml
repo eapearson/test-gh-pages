@@ -1,0 +1,8 @@
+title: Test GH Pages
+remote_theme: eapearson/just-the-docs
+search_enabled: false
+aux_links:
+  "Test GH Pages on Github":
+    - "//github.com/eapearson/test-gh-pages"
+  "About KBase":
+    - "//kbase.us/about"
